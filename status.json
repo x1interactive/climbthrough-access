@@ -1,8 +1,22 @@
 {
-  "status_for_DEMO_V1.2": "on",
-  "message_for_DEMO_V1.2": "Welcome to Climb Through Demo v1.2.
-This game is still in active development.
-You may experience bugs or incomplete features, 
-your feedback is highly appreciated.
-X1 Studios"
+  "status_for_DEMO_V1.2": "off",
+  "message_for_DEMO_V1.2": "Version 1.2 Has Been Discontinued
+
+Thank you for playing Climb Through.
+
+This version (v1.2) is no longer supported and has been officially shut down. To continue receiving updates, improvements, bug fixes, and new content, please download the latest version (v1.3).
+
+How to Update:
+
+1. Click the "Contact Us" button.
+2. Select "Itch.io".
+3. You will be redirected to the official Climb Through download page.
+4. Download and install the latest version (v1.3).
+
+We strongly recommend updating to ensure the best possible experience.
+
+Thank you for your support and happy climbing!
+
+— X1 Studios
+"
 }
